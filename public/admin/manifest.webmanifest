@@ -1,0 +1,11 @@
+{
+  "name": "Telur Kita — Pembukuan",
+  "short_name": "Pembukuan Telur",
+  "description": "Keuangan & penjualan usaha telur ayam",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAFCF8",
+  "theme_color": "#4CAF50",
+  "icons": [{ "src": "../assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
